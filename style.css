@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.main-div {
+    background-color: aqua;
+    height: 100vh;
+    padding: 100px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.content-div {
+    background-color: rgb(85, 85, 214);
+    height: 100%;
+    padding: 30px;
+    border: 8px solid brown;
+    border-radius: 20px;
+}
+
